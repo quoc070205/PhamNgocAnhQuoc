@@ -2,9 +2,12 @@
 <html>
 <head>
 <title>Pham Ngoc Anh Quoc</title>
-</head>
+<style>
 <body>
-<h1 style="background-color:Gray;">Gray</h1>
+background-color:black
+</style>
+</head>
+  <body>
 <img src="https://toanthaydinh.com/wp-content/uploads/2020/04/anh-bia-anime-cap-doi-8.png">
 <h2> Chào mừng bạn đến với trang của tôi!</h1>
 <p>Đây là fan page của wikiHow. Hãy cứ thoải mái khám phá!</p>
