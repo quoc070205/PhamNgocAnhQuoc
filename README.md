@@ -2,6 +2,13 @@
 <html>
 <head>
 <title>Pham Ngoc Anh Quoc</title>
+  .div1{
+    font-size:80px;
+    border: 1px solid black;
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    overflow: auto;}
 </head>
 <body>
 <img src="https://toanthaydinh.com/wp-content/uploads/2020/04/anh-bia-anime-cap-doi-8.png">
@@ -11,6 +18,4 @@
 <p><i>15/01/2019</i> - Sinh nhật wikiHow</p>
 <h2>Liên kết</h2>
 </body>
-<main bgcolor="red" width="100%" height="1000" >
-</main>
 </html>
