@@ -3,12 +3,13 @@
 <head>
 <title>Pham Ngoc Anh Quoc</title>
 <style>
-<body>
-background-color:black;
+body{
+background-image:src("https://toanthaydinh.com/wp-content/uploads/2020/04/anh-bia-anime-cap-doi-8.png");
+}
 </style>
 </head>
   <body>
-<img src="https://toanthaydinh.com/wp-content/uploads/2020/04/anh-bia-anime-cap-doi-8.png">
+  <!-- <img > -->
 <h2> Chào mừng bạn đến với trang của tôi!</h1>
 <p>Đây là fan page của wikiHow. Hãy cứ thoải mái khám phá!</p>
 <h3>Ngày quan trọng</h2>
