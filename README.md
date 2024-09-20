@@ -12,7 +12,7 @@ background-image:url("https://scontent.xx.fbcdn.net/v/t1.15752-9/431587475_42648
 </style>
 </head>
 <body>
-<img src="blob:https://www.facebook.com/aefb638e-504a-43e7-8c39-4317253273fd">
+<img src="blob:https://www.facebook.com/aefb638e-504a-43e7-8c39-4317253273fd" >
 <h1> Chào mừng bạn đến với trang của tôi!</h1>
 <h2>Đây là fan page của wikiHow. Hãy cứ thoải mái khám phá!</h2>
 <h3>Ngày quan trọng</h3>
