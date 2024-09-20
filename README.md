@@ -6,13 +6,13 @@
 <body>
 <img src="https://toanthaydinh.com/wp-content/uploads/2020/04/anh-bia-anime-cap-doi-8.png">
 <table bgcolor="red" width="100%" height="100%" >
-<tr><td>
-</td></tr>
+
 <h1>Chào mừng bạn đến với trang của tôi!</h1>
 <p>Đây là fan page của wikiHow. Hãy cứ thoải mái khám phá!</p>
 <h2>Ngày quan trọng</h2>
 <p><i>15/01/2019</i> - Sinh nhật wikiHow</p>
 <h2>Liên kết</h2>
-</table>
+<tr><td>
+</td></tr></table>
 </body>
 </html>
