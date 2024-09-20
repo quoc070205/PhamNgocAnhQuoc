@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <title>Pham Ngoc Anh Quoc</title>
