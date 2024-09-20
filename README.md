@@ -6,6 +6,7 @@
 <body>
 <img src="https://toanthaydinh.com/wp-content/uploads/2020/04/anh-bia-anime-cap-doi-8.png">
 <table bgcolor="violet" width="100%" >
+<tr><td>
 </td></tr>
 <table>
 <h1>Chào mừng bạn đến với trang của tôi!</h1>
