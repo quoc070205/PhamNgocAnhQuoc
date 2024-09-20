@@ -4,7 +4,7 @@
 <title>Pham Ngoc Anh Quoc</title>
 <style>
 <body>
-background-color:black
+background-color:black;
 </style>
 </head>
   <body>
