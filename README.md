@@ -5,7 +5,7 @@
 </head>
 <body>
 <img src="https://toanthaydinh.com/wp-content/uploads/2020/04/anh-bia-anime-cap-doi-8.png">
-<table bgcolor="red" width="100%" >
+<table bgcolor="red" width="100%" height="100" >
 <tr><td>
 </td></tr>
 </table>
