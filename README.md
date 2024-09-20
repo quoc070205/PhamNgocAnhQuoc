@@ -7,7 +7,8 @@ body{
 font-size: 13px;
 font-weight: 400;
 line-height: 25px;
-background-image:url("https://tse2.mm.bing.net/th?id=OIP.VXUO9sPsErwk2Eo9tcDr_AHaEK&pid=Api&P=0&h=220");    
+/* background-image:url("https://tse2.mm.bing.net/th?id=OIP.VXUO9sPsErwk2Eo9tcDr_AHaEK&pid=Api&P=0&h=220");     */
+  background-color: blue;
 }
 </style>
 </head>
