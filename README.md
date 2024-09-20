@@ -2,6 +2,7 @@
 <html>
 <head>
 <title>Pham Ngoc Anh Quoc</title>
+   <style type="text/css">
   .div1{
     font-size:80px;
     border: 1px solid black;
@@ -9,6 +10,14 @@
     width: 200px;
     height: 200px;
     overflow: auto;}
+  .div2{
+    font-size:80px;
+    border: 1px solid black;
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+}    </style>
 </head>
 <body>
 <img src="https://toanthaydinh.com/wp-content/uploads/2020/04/anh-bia-anime-cap-doi-8.png">
