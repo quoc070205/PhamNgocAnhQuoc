@@ -4,7 +4,8 @@
 <title>Pham Ngoc Anh Quoc</title>
 <style>
 body{
-background-image:url("https://toanthaydinh.com/wp-content/uploads/2020/04/anh-bia-anime-cap-doi-8.png");    
+/* background-image:url("https://toanthaydinh.com/wp-content/uploads/2020/04/anh-bia-anime-cap-doi-8.png");     */
+  background-image: src="https://tse1.mm.bing.net/th?id=OIP.dO7euZ4b5CYnJtVOjaXQegHaHa&pid=Api&P=0&h=220";
 }
 </style>
 </head>
