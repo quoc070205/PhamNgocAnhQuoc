@@ -5,7 +5,7 @@
 <style>
 body{
 /* background-image:url("https://toanthaydinh.com/wp-content/uploads/2020/04/anh-bia-anime-cap-doi-8.png");   */
-  background-color="black";
+  background-color:"black";
 }
 </style>
 </head>
