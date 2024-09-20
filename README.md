@@ -4,7 +4,7 @@
 <title>Pham Ngoc Anh Quoc</title>
 </head>
 <body>
-<imag src="https://toanthaydinh.com/wp-content/uploads/2020/04/anh-bia-anime-cap-doi-8.png">
+<img src="https://toanthaydinh.com/wp-content/uploads/2020/04/anh-bia-anime-cap-doi-8.png">
 <h1>Chào mừng bạn đến với trang của tôi!</h1>
 <p>Đây là fan page của wikiHow. Hãy cứ thoải mái khám phá!</p>
 <h2>Ngày quan trọng</h2>
