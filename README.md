@@ -1,9 +1,14 @@
-
-<html>
+<!DOCTYPE html>
+<html> lang="vi
 <head>
-<title>Pham Ngoc Anh Quoc</title>
+<title>Phạm Ngọc Anh Quốc</title>  
 <style>
 body{
+padding: 12px 0;
+    padding-top: 12px;
+    padding-right: 0px;
+    padding-bottom: 12px;
+    padding-left: 0px
 background-image:url("https://toanthaydinh.com/wp-content/uploads/2020/04/anh-bia-anime-cap-doi-8.png");    
 }
 </style>
