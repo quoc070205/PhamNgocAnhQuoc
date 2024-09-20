@@ -1,14 +1,12 @@
 <!DOCTYPE html>
-<html> lang="vi
+<html lang="vi">
 <head>
 <title>Phạm Ngọc Anh Quốc</title>  
 <style>
 body{
-padding: 12px 0;
-    padding-top: 12px;
-    padding-right: 0px;
-    padding-bottom: 12px;
-    padding-left: 0px
+font-size: 13px;
+font-weight: 400;
+line-height: 25px;
 background-image:url("https://toanthaydinh.com/wp-content/uploads/2020/04/anh-bia-anime-cap-doi-8.png");    
 }
 </style>
