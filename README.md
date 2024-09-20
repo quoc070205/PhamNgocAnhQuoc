@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+
 <html lang>
 <head>
-<title>Phạm Ngọc Anh Quốc</title>    
+<title>Võ Thị Như Quỳnh</title>    
 <style>
 body{
 font-size: 13px;
@@ -12,11 +12,21 @@ background-image:url("https://scontent.xx.fbcdn.net/v/t1.15752-9/431587475_42648
 </style>
 </head>
 <body>
-<img src="blob:https://www.facebook.com/aefb638e-504a-43e7-8c39-4317253273fd" >
-<h1> Chào mừng bạn đến với trang của tôi!</h1>
-<h2>Đây là fan page của wikiHow. Hãy cứ thoải mái khám phá!</h2>
-<h3>Ngày quan trọng</h3>
-<p><i>15/01/2019 - Sinh nhật wikiHow</p>
-<h4>Liên kết</h4>
+<img src="blob:https://www.facebook.com/6e2bc531-694b-4537-b159-b23206f02ce5" >
+<h1><b>Profile</b></h1>
+<h1>Họ và tên</h1>
+<h2>Võ Thị Như Quỳnh</h2>
+<h1>Ngày sinh</h1>
+<h2>02/10/2005</h2>
+<h1>Ngày quan trọng</h1>
+<h2> 14/04</h2>
+<h1>Sở thích</h1>
+<h2> Phạm Ngọc Anh Quốc</h2>
+<h1> Món ăn thích nhất</h1>
+<h2> Phạm Ngọc Anh Quốc</h2>
+<h1> Ưu điểm</h1>
+<h2> Dễ thương</h2>
+<h1> Nhược điểm</h1>
+<h2> Hay khóc nhè</h2>
 </body>
 </html> 
